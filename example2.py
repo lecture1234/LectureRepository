@@ -1,1 +1,1 @@
-print("goodmorinig")
+print("good morning")
